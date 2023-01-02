@@ -1,0 +1,13 @@
+name: ttest
+title: ttest
+username:
+account: billox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7962394
+bundleId: 6687795
+url: https://billox.shinyapps.io/ttest/
+when: 1672589844.60242
+lastSyncTime: 1672589844.60243
+asMultiple: FALSE
+asStatic: FALSE
